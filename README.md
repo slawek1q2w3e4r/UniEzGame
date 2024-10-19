@@ -16,10 +16,10 @@ UniEzGame is a simple python package for creating 2D games using SDL2
 ## Installing PyBind11:
 
 ### Widnows:
-**wget https://github.com/libsdl-org/SDL/releases/download/release-2.30.8/SDL2-devel-2.30.8-VC.zip**
+**wget https://github.com/pybind/pybind11.git**
 
 ### Linux:
-**wget https://github.com/libsdl-org/SDL/releases/download/release-2.30.8/SDL2-devel-2.30.8-VC.zip**
+**wget https://github.com/pybind/pybind11.git**
 
 ### MacOS
-**wget https://github.com/libsdl-org/SDL/releases/download/release-2.30.8/SDL2-devel-2.30.8-VC.zip**
+**wget https://github.com/pybind/pybind11.git**
