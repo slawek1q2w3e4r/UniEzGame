@@ -1,0 +1,38 @@
+Metadata-Version: 2.1
+Name: uniezgame
+Version: 0.2.1
+Summary: Uniezgame - Python C++ bindings using pybind11
+Home-page: https://github.com/twoje_github/unigame
+Author: Michał Lewandowski
+Author-email: michal.lewandowski.113@gamil.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/html
+
+
+    <h1>
+    
+                      $$\                                                           
+                      \__|                                                          
+    $$\   $$\$$$$$$$\ $$\ $$$$$$\ $$$$$$$$\ $$$$$$\  $$$$$$\ $$$$$$\$$$$\  $$$$$$\  
+    $$ |  $$ $$  __$$\$$ $$  __$$\\____$$  $$  __$$\ \____$$\$$  _$$  _$$\$$  __$$\ 
+    $$ |  $$ $$ |  $$ $$ $$$$$$$$ | $$$$ _/$$ /  $$ |$$$$$$$ $$ / $$ / $$ $$$$$$$$ |
+    $$ |  $$ $$ |  $$ $$ $$   ____|$$  _/  $$ |  $$ $$  __$$ $$ | $$ | $$ $$   ____|
+    \$$$$$$  $$ |  $$ $$ \$$$$$$$\$$$$$$$$\\$$$$$$$ \$$$$$$$ $$ | $$ | $$ \$$$$$$$\ 
+     \______/\__|  \__\__|\_______\________|\____$$ |\_______\__| \__| \__|\_______|
+                                           $$\   $$ |                               
+                                           \$$$$$$  |                               
+                                            \______/                                
+
+    </h1>
+    <p>This is a library that provides bindings for creating games using SDL</p>
+    <p>Features:</p>
+    <ul>
+        <li>Create and manage game windows</li>
+        <li>Handle keyboard and mouse input</li>
+        <li>Draw shapes and images using SDL2</li>
+    </ul>
+    

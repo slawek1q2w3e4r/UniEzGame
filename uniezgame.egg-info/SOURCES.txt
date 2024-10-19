@@ -1,0 +1,8 @@
+mylib.cpp
+setup.py
+uniezgame.egg-info/PKG-INFO
+uniezgame.egg-info/SOURCES.txt
+uniezgame.egg-info/dependency_links.txt
+uniezgame.egg-info/entry_points.txt
+uniezgame.egg-info/not-zip-safe
+uniezgame.egg-info/top_level.txt
